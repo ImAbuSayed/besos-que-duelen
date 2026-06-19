@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos que duelen
+
+This log tracks the cryptographic history and versioning for the song **Besos que duelen** (besos-que-duelen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T04:11:45.420203 | `v1` | `1fc0781ee51f04afc3b51a7a50312eab6fb682276f858596c532a17f96a743b3` | `1c25820f12e93dfb92a875bec1df4addcc5690ea6cdf0483d42916d732a7b2d9` | `2026-06-20_besos-que-duelen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
