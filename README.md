@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-que-duelen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Besos que duelen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-que-duelen/) |
+| **Get License** | [Secure Licensing Rights for Besos que duelen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-que-duelen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Besos que duelen, me queman la piel
+> Tu boca es veneno que sabe a miel
+> Dame esa noche, no pidas por qué
+> Besos que duelen, lo vuelvo a hacer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
